@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>944025547843-5hlnn0go0sbgc6bk1ca1no5p9ff3jbk4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.944025547843-5hlnn0go0sbgc6bk1ca1no5p9ff3jbk4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDwYzuqXWd2spUV7AQi-hyEarJW0vy1wCk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>944025547843</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.vincentangelo.SportsInsider</string>
+	<key>PROJECT_ID</key>
+	<string>sportsinsider-618a3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sportsinsider-618a3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:944025547843:ios:435a9ab9b0eb5af89c10f6</string>
+	<key>DATABASE_URL</key>
+	<string>https://sportsinsider-618a3.firebaseio.com</string>
+</dict>
+</plist>

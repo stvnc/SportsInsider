@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "60A72014-7A68-451B-9061-473A009041BE"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "255F95DC-6E7F-4EF4-88DB-689A551F76AC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SportsInsider/Controllers/Profile/EditProfileController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "111"
+            endingLineNumber = "111"
+            landmarkName = "configureUI()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6BC9345E-B8DF-4BD6-8FEA-1A4EAD654556"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SportsInsider/View/ProfileSection/ProfileFooter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "logoutButton"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "6BC9345E-B8DF-4BD6-8FEA-1A4EAD654556 - fea522a5d66af561"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; __C.UIButton in variable initialization expression of SportsInsider.ProfileFooter.logoutButton : __C.UIButton"
+                  moduleName = "SportsInsider"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vincent/Desktop/Swift/SportsInsider/SportsInsider/View/ProfileSection/ProfileFooter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "17">
+               </Location>
+               <Location
+                  uuid = "6BC9345E-B8DF-4BD6-8FEA-1A4EAD654556 - d605eb62f14df13a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SportsInsider.ProfileFooter.logoutButton.getter : __C.UIButton"
+                  moduleName = "SportsInsider"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vincent/Desktop/Swift/SportsInsider/SportsInsider/View/ProfileSection/ProfileFooter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "6BC9345E-B8DF-4BD6-8FEA-1A4EAD654556 - f292884f0824e12e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SportsInsider.ProfileFooter.logoutButton.setter : __C.UIButton"
+                  moduleName = "SportsInsider"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vincent/Desktop/Swift/SportsInsider/SportsInsider/View/ProfileSection/ProfileFooter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "6BC9345E-B8DF-4BD6-8FEA-1A4EAD654556 - 18cd9b8acb7c9d3d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SportsInsider.ProfileFooter.logoutButton.modify : __C.UIButton"
+                  moduleName = "SportsInsider"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vincent/Desktop/Swift/SportsInsider/SportsInsider/View/ProfileSection/ProfileFooter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "6BC9345E-B8DF-4BD6-8FEA-1A4EAD654556 - a1bb43471f72a15d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SportsInsider.ProfileFooter.logoutButton.modify : __C.UIButton with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "SportsInsider"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vincent/Desktop/Swift/SportsInsider/SportsInsider/View/ProfileSection/ProfileFooter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F4F79E29-0174-49FF-80B3-422F2A8D2A5E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SportsInsider/Model/User.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "init(email:fullname:uid:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "87F7584D-D514-4DE7-9F40-FB82AE353104"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SportsInsider/View/ProfileSection/ProfileFooter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "handleLogout()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

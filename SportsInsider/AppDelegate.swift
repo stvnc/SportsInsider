@@ -7,14 +7,18 @@
 //
 
 import UIKit
+import Firebase
+import RealmSwift
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
-
-
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        FirebaseApp.configure()
+        print("Realm Path: \(Realm.Configuration.defaultConfiguration.fileURL!)")
+        UINavigationBar.appearance().tintColor = .lightGray
+        
         return true
     }
 
