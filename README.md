@@ -4,7 +4,7 @@ This is SportsInsider, an application with the purpose of viewing upcoming event
 This project is purely programmatic as storyboard isn't used. 
 
 Library used: 
-- **Firebase** for authentication, image storage*
+- **Firebase** for authentication, and image storage*
 - **Realm** for database
 - **SDWebImage** for image related
 - **DropDown** for dropdown menu
