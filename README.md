@@ -9,6 +9,7 @@ Library used:
 - **SDWebImage** for image related
 - **DropDown** for dropdown menu
 - **SideMenu** for side menu
+
 NB: * means upcoming
 
 This project is currently under development, there's still many bugs inside this application and I will fix it ASAP.
